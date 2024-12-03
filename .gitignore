@@ -1,0 +1,8 @@
+.idea
+.vscode
+/compose.yaml
+BFF/.env
+BFF/node_modules
+Microfrontends/root/node_modules
+Microfrontends/login/node_modules
+Microfrontends/product/node_modules
